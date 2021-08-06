@@ -1,4 +1,21 @@
-### Olá, sou Gustavo adriano!!
+### Hi! I'm Gustavo Adriano!
+##
+### Info
+*  27 years old 👨‍💻
+*  Brazilian 🇧🇷
+*  Artificial Inteligente especialization at Instituto Federal de Goiás (IFG) ⏳
+*  Control and Automation Engineer at Universidade Federal de Minas Gerais (UFMG) 👨‍🎓
+
+##
+### Some Languages and Tools:
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="40"/> </a> 
+  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="40"/> </a> 
+</p>
+  
+                                                                             
 ##
 <div>
   <a href="https://github.com/gasgustavo">
