@@ -1,9 +1,9 @@
 ### Hi! I'm Gustavo Adriano!
 ##
 ### Info
-*  27 years old 👨‍💻
+*  30 years old 👨‍💻
 *  Brazilian 🇧🇷
-*  Artificial Inteligente especialization at Instituto Federal de Goiás (IFG) ⏳
+*  Artificial Inteligente especialization at Instituto Federal de Goiás (IFG) 
 *  Control and Automation Engineer at Universidade Federal de Minas Gerais (UFMG) 👨‍🎓
 
 ##
